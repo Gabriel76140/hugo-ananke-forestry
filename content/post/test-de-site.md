@@ -10,7 +10,7 @@ title = "Test de site "
 +++
 **à propose de moi**
 
-Je suis Gabriel j'ai 17 ans, je suis actuellement en école du web  
+Je suis Gabriel j'ai 17 ans, je suis actuellement en école du web.  
 
 #### **FORMATION**
 
