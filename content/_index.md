@@ -1,7 +1,34 @@
 ---
-title: 'site internet '
-featured_image: "/images/gohugo-default-sample-hero-image.jpg"
-description: mon site intenet
+title: Abategabriel
+featured_image: "/images/notebook.jpg"
+description: je me présente
 
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+### FORMATION: Normandie Web School
+
+![](/images/nws.jpg "RRR")
+
+#### **LOISIR**
+
+* Sport, jeux vidéo, sortir
+
+#### **COMPETENCES**
+
+* Monter un PC 
+* Réparer s appareil électroménager
+* Changer des écrans d 'iPhone
+* Gérer de la clientèles  
+
+#### **CONTACT**
+
+* abategabriel8@gmail.com
+* 06.07.49.88.22
+
+  #### 
+  * 
+
+#### 
+
+#### 
+
+#### 
