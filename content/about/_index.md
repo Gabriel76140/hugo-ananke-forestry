@@ -6,7 +6,7 @@ featured_image: "/images/nws.jpg"
 ---
 #### **FORMATION**
 
-* Normandie Web School 2020/2021
+###### -Normandie Web School 2020/2021
 
 #### **LOISIRS**
 
