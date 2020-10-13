@@ -10,23 +10,30 @@ featured_image: "/images/nws.jpg"
 
 #### **LOISIRS**
 
-* Sport
-* Sortie
-* Jeux vidéo
+###### -Sport
+
+###### -Sortie
+
+###### -Jeux vidéo
 
 #### **COMPETENCES**
 
-* Excel
-* Word
-* Powerpoint
+###### -Excel
+
+###### -Word
+
+###### -Powerpoint
 
 #### **CONTACT**
 
-* abategabriel8@gmail.com
-* 06.07.49.88.22
+###### -abategabriel8@gmail.com
+
+###### -06.07.49.88.22
 
 #### **EXPERIENCES**
 
-* Maintenance informatique
-* Maintenance smartphone
-* Maintenance électroménager
+###### -Maintenance informatique
+
+###### -Maintenance smartphone
+
+###### -Maintenance électroménager
